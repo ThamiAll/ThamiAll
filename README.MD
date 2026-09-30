@@ -1,10 +1,8 @@
 # 💫 About Me:
-Oi, sou a Thamires!<br>
-tenho bagagem em Química Computacional e recentemente me formei em Gestão de TI<br>
-conheço um pouco de Python, Next.js, Figma, Scrum e IAs<br>
-posso fazer muitas coisas se você precisar, posso aprender qualquer tecnologia se for necessário<br>
-estou buscando uma oportunidade como PO ou UI/UX Design para dar o meu melhor<br>
-se você precisa de alguém que entenda de produtos, prototipagem ou programação, por favor fale comigo.
+Hi, I'm Thamires! 👋
+Sou Product Engineer e Fullstack Developer com formação em Gestão de TI e background em Química Computacional. Minha atuação foca no ciclo completo de desenvolvimento de produtos digitais — do discovery e prototipagem no Figma à implementação com Python, Next.js e soluções de IA.
+
+Acredito no aprendizado contínuo e na capacidade de adaptar novas tecnologias rapidamente para transformar ideias em interfaces intuitivas e software robusto.
 
 
 ## 🌐 Socials:
