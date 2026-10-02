@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Thamires!
 <br>
 Sou Product Engineer e Fullstack Developer com formação em Gestão de TI e background em Química Computacional. Minha atuação foca no ciclo completo de desenvolvimento de produtos digitais — do discovery e prototipagem no Figma à implementação com Python, Next.js e soluções de IA.
